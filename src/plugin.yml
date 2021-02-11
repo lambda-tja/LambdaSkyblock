@@ -1,0 +1,10 @@
+name: LambdaSkyblock
+version: 0.0.1
+author: Lambda
+main: org.lambda.skyblock.Main
+api-version: 1.16
+commands:
+  createnpc:
+    description: Create NPC
+    usage: /createnpc
+    permission: LambdaSkyblock.*
